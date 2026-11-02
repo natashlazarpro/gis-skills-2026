@@ -1,4 +1,4 @@
-GIS 2026: a metro map of geospatial skills 🚇
+**GIS 2026: a metro map of geospatial skills** 🚇
 
 What if the whole geospatial toolbox looked like the Berlin mobility map?
 
